@@ -1,0 +1,65 @@
+[
+  {
+    "name": "John Doe",
+    "dob": "1985-02-14",
+    "gender": "Male",
+    "sex": "M",
+    "address": "123 Elm St, Springfield, IL",
+    "email": "johndoe@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "name": "Jane Smith",
+    "dob": "1990-08-22",
+    "gender": "Female",
+    "sex": "F",
+    "address": "456 Oak Ave, Metropolis, NY",
+    "email": "janesmith@example.com",
+    "phone": "555-234-5678"
+  },
+  {
+    "name": "Michael Brown",
+    "dob": "1978-04-10",
+    "gender": "Male",
+    "sex": "M",
+    "address": "789 Pine Rd, Gotham, NJ",
+    "email": "mbrown@example.com",
+    "phone": "555-345-6789"
+  },
+  {
+    "name": "Emily Davis",
+    "dob": "1982-11-30",
+    "gender": "Female",
+    "sex": "F",
+    "address": "321 Maple Ln, Star City, CA",
+    "email": "edavis@example.com",
+    "phone": "555-456-7890"
+  },
+  {
+    "name": "Chris Lee",
+    "dob": "1995-06-18",
+    "gender": "Non-binary",
+    "sex": "Other",
+    "address": "654 Birch Blvd, Central City, TX",
+    "email": "clee@example.com",
+    "phone": "555-567-8901"
+  },
+  {
+    "name": "Laura Wilson",
+    "dob": "1988-09-12",
+    "gender": "Female",
+    "sex": "F",
+    "address": "888 Walnut St, Coast City, FL",
+    "email": "lwilson@example.com",
+    "phone": "555-678-9012"
+  },
+  {
+    "name": "David Kim",
+    "dob": "1975-03-28",
+    "gender": "Male",
+    "sex": "M",
+    "address": "999 Cedar Ct, Keystone City, CO",
+    "email": "dkim@example.com",
+    "phone": "555-789-0123"
+  }
+]

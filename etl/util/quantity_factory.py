@@ -1,4 +1,4 @@
-from .unit import *
+from .quantity import *
 
 class QuantityFactory:
     _registry: dict[str, tuple[Type[Enum], Type[Quantity]]] = {}
