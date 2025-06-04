@@ -3,3 +3,4 @@
 patients.db
 .idea
 __pycache__/
+log/*
