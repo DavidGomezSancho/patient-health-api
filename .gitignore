@@ -1,3 +1,5 @@
 .*
 !/.gitignore
 patients.db
+.idea
+__pycache__/
