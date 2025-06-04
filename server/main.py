@@ -1,20 +1,12 @@
-#TODO python -m venv fastapienv
-# .\fastapienv\Scripts\activate.bat
-# pip install -r .\requirements.txt
 from enum import Enum
-
-# python -m database.init_db
-# python -m etl.main
-# python -m analytic.main
-# uvicorn server.main:app --reload
-from typing import Annotated, List, Optional
+from typing import Annotated, List
 from uuid import UUID, uuid4
 
 from fastapi import Depends, FastAPI, Query, HTTPException, status
 from fastapi.responses import Response
 from sqlalchemy import and_
 from sqlalchemy.orm import Session
-from starlette.responses import JSONResponse
+from fastapi.responses import JSONResponse
 
 from database.model import Patient, MeasureHealth, DerivedMeasureHealth
 from database.session import get_db
